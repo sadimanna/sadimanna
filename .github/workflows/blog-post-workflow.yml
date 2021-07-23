@@ -1,44 +1,17 @@
-# name: Latest blog post workflow
-# on:
-#   schedule:
-#     # Runs every hour
-#     - cron: "0 * * * *"
-# jobs:
-#   update-readme-with-blog:
-#     name: Update this repo's README with latest blog posts
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v2
-#       - uses: sadimanna/sadimanna@main
-#         with:
-#           feed_list: "https://medium.com/feed/@mannasiladittya"
-
-name: Blog posts on ReadMe
+name: Update blog posts
 on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
   schedule:
-    # Runs every day at 9am UTC
+    # Runs every hour
     - cron: '5 * * * *'
-
 jobs:
-  build:
-    # The type of runner that the job will run on
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v2
-      - name: Get RSS Feed
-        uses: sadimanna/sadimanna@master
+      - uses: sadimanna/blog-post-workflow@main
         with:
-          feed_url: https://medium.com/feed/@mannasiladittya
-          count: 10
-      - name: Commit file changes
-        run: |
-            git config --global user.name 'sadimanna'
-            git config --global user.email 'manna.siladittya@gmail.com'
-            git add .
-            git diff --quiet --cached || git commit -m "Update README" 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          feed_list: "https://medium.com/feed/@mannasiladittya"
