@@ -17,6 +17,11 @@ Reach Me at
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SimCLR in PyTorch](https://medium.com/the-owl/simclr-in-pytorch-5f290cb11dd7?source=rss-26c2e47063eb------2)
+- [Statistical Learning Theory Part 4](https://medium.com/the-owl/statistical-learning-theory-part-4-f79408cdbf44?source=rss-26c2e47063eb------2)
+- [Using forward_hooks to Extract Intermediate Layer Outputs from a Pre-trained ResNet Model in…](https://medium.com/the-owl/using-forward-hooks-to-extract-intermediate-layer-outputs-from-a-pre-trained-model-in-pytorch-1ec17af78712?source=rss-26c2e47063eb------2)
+- [Extracting Features from an Intermediate Layer of a Pretrained VGG-Net in PyTorch](https://medium.com/the-owl/extracting-features-from-an-intermediate-layer-of-a-pretrained-vgg-net-in-pytorch-43f801866a2e?source=rss-26c2e47063eb------2)
+- [Extracting Features from an Intermediate Layer of a Pretrained ResNet Model in PyTorch (Easy way)](https://medium.com/the-owl/extracting-features-from-an-intermediate-layer-of-a-pretrained-model-in-pytorch-easy-way-62631c7fa8f6?source=rss-26c2e47063eb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Social:</h3>
