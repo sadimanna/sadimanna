@@ -17,11 +17,11 @@ Reach Me at
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Plotting Stacked Bar Chart in Python using Matplotlib](https://medium.com/the-owl/plotting-stacked-bar-chart-in-python-using-matplotlib-12fffde10361?source=rss-26c2e47063eb------2)
 - [GradCAM in PyTorch](https://medium.com/the-owl/gradcam-in-pytorch-7b700caa79e5?source=rss-26c2e47063eb------2)
 - [Plotting Grouped Bar Chart in Matplotlib](https://medium.com/the-owl/plotting-grouped-bar-chart-in-matplotlib-7700e818344f?source=rss-26c2e47063eb------2)
 - [SimCLR in PyTorch](https://medium.com/the-owl/simclr-in-pytorch-5f290cb11dd7?source=rss-26c2e47063eb------2)
 - [Statistical Learning Theory Part 4](https://medium.com/the-owl/statistical-learning-theory-part-4-f79408cdbf44?source=rss-26c2e47063eb------2)
-- [Using forward_hooks to Extract Intermediate Layer Outputs from a Pre-trained ResNet Model in…](https://medium.com/the-owl/using-forward-hooks-to-extract-intermediate-layer-outputs-from-a-pre-trained-model-in-pytorch-1ec17af78712?source=rss-26c2e47063eb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Social:</h3>
