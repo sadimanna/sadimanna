@@ -17,7 +17,7 @@ Reach Me at
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Installing PyTorch XLA in Google Colab without](https://medium.com/the-owl/installing-pytorch-xla-in-google-colab-without-35d37d1d03c6?source=rss-26c2e47063eb------2)
+- [Installing PyTorch XLA in Google Colab without errors!!](https://medium.com/the-owl/installing-pytorch-xla-in-google-colab-without-35d37d1d03c6?source=rss-26c2e47063eb------2)
 - [Creating a TF Dataset using a Data Generator](https://medium.com/the-owl/creating-a-tf-dataset-using-a-data-generator-5e5564609e64?source=rss-26c2e47063eb------2)
 - [Plotting Stacked Bar Chart in Python using Matplotlib](https://medium.com/the-owl/plotting-stacked-bar-chart-in-python-using-matplotlib-12fffde10361?source=rss-26c2e47063eb------2)
 - [GradCAM in PyTorch](https://medium.com/the-owl/gradcam-in-pytorch-7b700caa79e5?source=rss-26c2e47063eb------2)
