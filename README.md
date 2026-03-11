@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadimanna&label=Profile%20views&color=0e75b6&style=flat" alt="sadimanna" /> </p>
 
-- 🔭 I’m currently working on **Vulnerabilities of Parameter-Efficient Fine-Tuning Frameworks in Federated Learning Setting**
+- 🔭 I’m currently working on **Vulnerabilities in Federated Learning Setting**
 
 - 👨‍💻 Portfolio [https://sadimanna.github.io](https://sadimanna.github.io)
 
