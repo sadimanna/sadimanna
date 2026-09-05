@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siladittya Manna</h1>
-<h3 align="center">Currently, Research Associate, Dept. of CDS, Indian Institute of Science, India</h3>
+<h3 align="center">Currently, Post-Doctoral Research Associate, Dept. of CDS, Indian Institute of Science, India</h3>
 <h3 align="center">Formerly Senior Research Assistant, Dept. of CS, Hong Kong Baptist University, Hong Kong</h3>
 <h3 align="center">Formerly Senior Research Fellow (Ph.D.), CVPR Unit, Indian Statistical Institute, Kolkata</h3>
 
